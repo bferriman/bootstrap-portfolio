@@ -1,0 +1,40 @@
+h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+}
+
+.text-foam {
+    color: #4aaaa5;
+}
+
+.bg-foam {
+    background-color: #4aaaa5;
+}
+
+.logo {
+    height: 80px;
+}
+
+.logo-label {
+    line-height: 80px;
+}
+
+.main-header {
+    height: 80px;
+}
+
+.main-title{
+    padding: 25px 0px 25px 0px;
+}
+
+.bot-border-3 {
+    border-bottom: 3px solid #dddddd;
+}
+
+.brickwall {
+    background-image: url("../images/brickwall.png"); /* Background pattern from Toptal Subtle Patterns */
+}
+
+@media screen and (max-width: 575px) {  /*xs screens*/
+
+}
