@@ -90,6 +90,8 @@ a:focus {
 .proj-label {
     font-size: 26px;
     width: 100%;
+    padding: 10% 0;
+    margin: 3% 0;
     bottom: 0px;
 }
 
