@@ -14,6 +14,10 @@ footer {
     border-top: 8px solid #4aaaa5;
 }
 
+p {
+    line-height: 1.8;
+}
+
 .spacer {
     height: 75px;
 }
@@ -35,6 +39,20 @@ a:focus {
     outline: none;
     text-decoration: underline;
     text-decoration-color: #4aaaa5;
+}
+
+input.form-control:focus {
+    border: 1px solid #4aaaa5;
+    box-shadow: 0 0 0px 3px rgba(74, 170, 165, 0.5);
+}
+
+textarea.form-control:focus {
+    border: 1px solid #4aaaa5;
+    box-shadow: 0 0 0px 3px rgba(74, 170, 165, 0.5);
+}
+
+button.btn:focus {
+    box-shadow: 0 0 0px 3px rgba(74, 170, 165, 0.5);
 }
 
 .text-slate {
