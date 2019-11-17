@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I have rebuilt my [portfolio site](https://github.com/bferriman/portfolio.git) using Bootstrap to make it responsive.
+In this project, I have rebuilt my [portfolio site](https://github.com/bferriman/portfolio.git) using Bootstrap to make it responsive.  I used my own CSS and pseudo-classes to maintain custom color scheme throughout the site and when hovering/focusing elements.
 
 The site was developed to serve as my presence on the web, particularly for prospective employers.  It contains an introductory "About Me" page, a portfolio page containing links to projects I've worked on, and a contact page.
 
